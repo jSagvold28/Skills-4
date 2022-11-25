@@ -19,12 +19,11 @@ Feel free to take a peek inside of the GitHub Repository
 
 # If you don't have it installed on your machine
 
-#https://developer.apple.com/sf-symbols/
+# https://developer.apple.com/sf-symbols/
 
-#For download on developer.apple.com
+# For download on developer.apple.com
 
-#Images have been removed. Because they are not longer useful in the code as of 11.15.22 at 8:34p
-####This application is in beta stages. This app may have bugs.
+## Images will be coming as the app has more image assets. (as of 11.25.22 at 4:11pm)
 
-#If found a bug, please report in the Issues tab
+# If found a bug, please report in the Issues tab
 
