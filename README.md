@@ -1,9 +1,9 @@
 readme.md update
 
 
-##Skills 4 is a open-source iOS application coded in Swift, SwiftUI. this app may be released to the AppStore.
+## Skills 4 is a open-source iOS application coded in Swift, SwiftUI. this app may be released to the AppStore.
 
-##Why this app?
+## Why this app?
 
 People that want to learn new things, this can be useful because you can get a new job, hobby, etc. 
 
@@ -15,9 +15,9 @@ People that want to learn new things, this can be useful because you can get a n
 Feel free to take a peek inside of the GitHub Repository
 
 
-#Some of this applications are using SF Symbols
+# Some of this applications are using SF Symbols
 
-#If you don't have it installed on your machine
+# If you don't have it installed on your machine
 
 #https://developer.apple.com/sf-symbols/
 
