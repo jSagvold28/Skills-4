@@ -15,13 +15,13 @@ People that want to learn new things, this can be useful because you can get a n
 Feel free to take a peek inside of the GitHub Repository
 
 
-# Some of this applications are using SF Symbols
+Some of this applications are using SF Symbols
 
-# If you don't have it installed on your machine
+ If you don't have it installed on your machine
 
-# https://developer.apple.com/sf-symbols/
+https://developer.apple.com/sf-symbols/
+or also avabile for download at: developr.apple.com
 
-# For download on developer.apple.com
 
 ## Images will be coming as the app has more image assets. (as of 11.25.22 at 4:11pm)
 
