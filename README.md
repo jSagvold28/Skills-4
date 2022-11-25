@@ -25,5 +25,15 @@ Feel free to take a peek inside of the GitHub Repository
 
 ## Images will be coming as the app has more image assets. (as of 11.25.22 at 4:11pm)
 
+
+
+# This app is made in Swift and SwiftUI, so if a Objective C or UIKit developer, this repository is not for you.
+
+
+## I am a new iOS Developer, developing in Swift and SwiftUI, I may try out UIKit later on to seee if I do like UIKIt
+
+
+
+
 # If found a bug, please report in the Issues tab
 
