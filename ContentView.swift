@@ -35,6 +35,7 @@ struct ContentView: View {
                 .bold()
                 .padding(.bottom, 5)
             Text("Better than Skills 3 ;)")
+            
         }
     }
     
